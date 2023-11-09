@@ -1,0 +1,36 @@
+/* chatGPT aided the assembly of this code */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    padding: 10px 0;
+    text-align: center; /* Center-align your header content */
+}
+
+h1 {
+    margin: 0; /* Remove default margin for h1 */
+    color: white;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 10px 0 0 0; /* Add top margin to create space between h1 and navbar */
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+/* Add additional styling as needed */
